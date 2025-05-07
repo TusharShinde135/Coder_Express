@@ -7,3 +7,5 @@ public class Main {
     }
 }
 // This is a simple Java program that prints "Hello, World!" to the console.
+
+New changes
