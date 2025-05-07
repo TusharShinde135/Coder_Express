@@ -5,3 +5,5 @@ def greet(name):
 
 if __name__ == "__main__":
     greet("World")
+
+    # This is a simple script that greets the user.
